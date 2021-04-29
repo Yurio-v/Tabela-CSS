@@ -1,0 +1,70 @@
+
+body{  background-image: url(./papel.jpg);
+        
+
+
+
+
+
+}
+
+
+.fundo{
+       
+         border-collapse: collapse;
+         border: 1px black solid;
+         background-color: rgb(255, 191, 122);
+        
+         
+
+
+}
+
+.cor_topo{
+          
+          border: 1px black solid;
+          background-color: rgb(158, 255, 112);
+
+
+}
+
+.bordab{
+          border: 1px black solid;
+     
+
+
+
+}
+
+.preto{
+
+          
+            background-color: rgba(253, 241, 78, 0.747);
+            margin-right: 16%;
+            padding: 3%;
+            font-family: 'Noto Serif JP', sans-serif;
+            font-size: 45px;
+            
+
+}
+
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+
+
+}
+
+.lista{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(184, 146, 171, 0.747);
+    margin-right: 5%;
+    margin-left: 20%;
+    
+   
+    
+}
